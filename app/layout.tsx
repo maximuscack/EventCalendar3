@@ -8,8 +8,8 @@ const _geistMono = Geist_Mono({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
   title: 'EventCalendar',
-  description: 'Created with v0',
-  generator: 'v0.app',
+  description: 'EventCalendar',
+  generator: 'Juan',
   icons: {
     icon: [
       {
